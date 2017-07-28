@@ -1,0 +1,2 @@
+Boulder,Denver,20
+Denver,Castle Rock,25
